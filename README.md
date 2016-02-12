@@ -6,7 +6,7 @@ used on it's own.
 ### Getting Started
 Bower install into your project:
 ```sh
-bower install https://github.com/uqlibrary/uqlapp-config.git
+bower install uqlibrary/uqlapp-config
 ```
 For this to work you must have your GIT password saved on a keychain. 
 
