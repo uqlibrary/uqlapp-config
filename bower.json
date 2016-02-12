@@ -1,0 +1,22 @@
+{
+  "name": "uqlapp-config",
+  "homepage": "https://github.com/uqlibrary/uqlapp-config",
+  "authors": [
+    "Jan-Willem Wisgerhof <jwwisgerhof@gmail.com>"
+  ],
+  "description": "The main Config constant shared across all UQL apps",
+  "main": "uql.app.config.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9"
+  }
+}
