@@ -5,7 +5,7 @@
     "Jan-Willem Wisgerhof <jwwisgerhof@gmail.com>"
   ],
   "description": "The main Config constant shared across all UQL apps",
-  "main": "uql.app.config.js",
+  "main": "dist/uqlapp-config.min.js",
   "moduleType": [],
   "license": "MIT",
   "private": true,

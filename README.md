@@ -15,3 +15,15 @@ uqlapp-config has 3 variables that can be overwritten by the main project:
 - uqlApiUrl: The URL of the UQ Library API
 - uqlAppUrl: The URL of the main UQL App (root)
 - uqlAppMock: Whether to use mock data or not
+
+### Developing
+- Run the following in the root directory
+```sh
+npm install
+```
+- Change any file in the "src" directory
+- Run the following command to minify the JS *before* committing to Master
+- Tag a release if needed
+```sh
+gulp minify
+```

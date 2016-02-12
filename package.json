@@ -1,0 +1,26 @@
+{
+  "name": "uqlapp-account",
+  "version": "1.0.0",
+  "description": "The main Config constant shared across all UQL apps",
+  "main": "dist/uqlapp-config.min.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-ng-annotate": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.2",
+    "gulp-util": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jwwisgerhof@github.com/uqlibrary/uqlapp-account.git"
+  },
+  "author": "j.wisgerhof at library.uq.edu.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uqlibrary/uqlapp-account/issues"
+  },
+  "homepage": "https://github.com/uqlibrary/uqlapp-account#readme"
+}
