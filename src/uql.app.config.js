@@ -9,9 +9,6 @@
 
   var apiVersion = 'v1';
 
-  // temp line for branch: test in testing branch
-  apiVersion = 'staging';
-
   var uqlApiUrl = uqlApiUrl || 'https://api.library.uq.edu.au/' + apiVersion + '/';
   var uqlAppUrl = uqlAppUrl || 'https://app.library.uq.edu.au';
   var uqlAppMock = uqlAppMock || '';
